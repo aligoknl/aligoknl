@@ -1,16 +1,14 @@
-### Hi there 👋
+👋 Hello, I'm Ali Gök!
 
-<!--
-**aligoknl/aligoknl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏻‍💻 Full-Stack Developer | 🌐 Web Developer | 🌱 Passionate about making a positive impact through technology
 
-Here are some ideas to get you started:
+🔧 Technologies: JavaScript, Python, Node.js, React, Redux, Vuex, Vue.js, AWS, Cypress, Cucumber, Docker, MongoDB, MySQL, TypeScript, RestAPI, GraphQL, Git, Jira, Storybook.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Continuous Learning:
+Though I couldn't complete my degree at Vrije Universiteit Amsterdam due to economic reasons, I participated in HackYourFuture bootcamp's Full-Stack Developer Program, gaining practical knowledge and hands-on experience in various programming languages and frameworks. My educational background includes a bachelor's degree, two master's degrees, and a PhD in international law, providing me with a strong foundation in both technical and analytical skills.
+
+📫 Let's Connect:
+I'm always open to collaborating on exciting projects and connecting with fellow developers. Feel free to reach out, and let's create something amazing together!
+
+[LinkedIn](https://www.linkedin.com/in/ali-g%C3%B6k-8265a7229/)
+
